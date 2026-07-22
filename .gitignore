@@ -1,0 +1,15 @@
+# Java / Maven
+target/
+*.class
+# Node
+node_modules/
+dist/
+.angular/
+out-tsc/
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+# env
+.env
